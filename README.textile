@@ -1,0 +1,19 @@
+h2. Put and Take
+
+h3. Setup:
+
+* Each player starts with 30 tokens
+* Special pair of six sided dice.
+** T, T, T, P, P, P
+** 1, 2, 3, 4, 5, A
+
+h3. Game Play
+
+* Each player places 1 token in the middle
+* Players take turns rolling the dice
+
+h3. Rules
+
+* If the Take/Put die shows a "T", the player takes the number of tokens from the pot that correspond to the number on the number die
+* If the Take/Put die shows a "P", the player puts the number of tokens into the pot that correspond to the number on the number die
+* If the number die shows an "A" the player takes or puts an equal amount of tokens as are currently in the pot
