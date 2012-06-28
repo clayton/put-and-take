@@ -16,4 +16,10 @@ class PutAndTakeTest < Test::Unit::TestCase
 
     assert_equal(result, -2)
   end
+
+  def test_take_one
+    result = @game.evaluate("1", "T")
+
+    assert_equal(result, 1)
+  end
 end
