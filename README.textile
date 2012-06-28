@@ -9,8 +9,9 @@ h3. Setup:
 
 h3. Game Play
 
-* Each player places 1 token in the middle
-* Players take turns rolling the dice
+* Before each round, each player places 1 token in the middle
+* The round concludes with a player rolling the dice
+* Play moves on to the next player
 
 h3. Rules
 
